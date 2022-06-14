@@ -1,0 +1,54 @@
+--- 
+title: "Reproducible Reporting: Cut Title Cost in Half"
+author: "Robert C. Cline, Sr., M.A., CPL"
+date: "2022-06-13"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  This is a proposal to introduce reproducible reporting to steamline land title documentation, taking advantage of methods used by the scientific community employed in reproducible research. Reproducible reporting is estimated to reduce title analysis costs by as much as 50 percent.  
+  
+  
+biblio-style: apalike
+csl: chicago-fullnote-bibliography.csl
+---
+
+# Introduction
+
+The scientific community has invested heavily in what is known as reproducible research to make their work reproducible for themselves and for other scientists wishing to replicate their studies to verify findings or explore the subject further. Scientists do not deploy reproducible research for cost cutting, but to document their research, making it both reproducible and verifiable. The technology available to create reproducible research is not limited to the scientific communty. Any individual or organization can utitlize this technology to make one's own reporting reproducible.  The advantages of reproducible reporting are many, including organizing resources, automating the presentation of data analysis, and compiling data into a report for publication or review. It is this automation of the process that saves as much as 50 percent of the time it takes to create land title reports. Reproduciblity turns the process into an iterative process, so, as the data changes, the reports themselves simply update automatically.  Stated another way, much of our reporting and document preparation stays the same while only the data source changes. An example would be the preparation of oil and gas leases.  Instead of a lease and offer letter being prepared for each Lessor, all packages can be prepared at once from one data source. The names, tracts, net minerals and bonus payments change for each lessor and for each project, only the data input changes.  The process of producing multiple lease packages is one batch print operation. This is called parameterized reporting. The template remains the same.  Only the data changes. A separate report is created for each Lessor, for example.  The process is much more robust than "mail merge" operations.  The reporing process actually recalculates results using the parameters for each report. Utilizing the computer to batch process leases, very little time is used in preparing the lease package documents. It reduces the process from time measured in hours or days into seconds. This is where reproducible reporting has a great advantage over traditional reporting methods both in savings of time and money.  The time savings is huge.  
+
+## Usage 
+
+While replication is a fundamental tenet of science, it is grossly under utilized in business applications; especially the title business. The process of preparing reports in the title industry is expensive and time consuming. The process of interpreting title ownership requires "hands-on" review of title documentation and a knowledge of land law, contract law, probate law, etc.  However, the process of reporting the analysis can be shortened by utilizing the methodology of reproducible research. Reproducible reporting is a way of utilizing current technolgy to both create iterative types of reports known as parameterized reports, and as a way to organize the title ownership data into easily managed data which can be maintained in a centralized database and updated as necessary.  
+
+## About the Author
+
+I, Robert C. Cline, Sr., hold a Masters Degree in Clinical Psychology from University of Houston-Clear Lake and, I am an AAPL Certified Professional Landman.  My family operated a sovereign title plant in Wharton Texas which was established by my granfather in 1890.  I started working in that plant at age 11, a barefooted boy copying documents in the court house, developing and printing the images for the abstractor to compile into Abstracts and Title Certificates.  I worked in that plant throughout my high school years.  After college, I attended a two year program at the University of Texas San Antonio Title School (UTSA), earning a certificate in the title insurance industry. I was a licensed closing officer in the title plant and was a certified Title Examiner for several title insurance underwriters including Chicago Title Insurance Agency and Minisota Title Insurance Company. A title examiner is a position that, by industry standards, requires a law degree and five years of practice of land title law.  That requirement was waived because of experience and UTSA certification.  I was a member of the Texas Land Title Association and was a Title Plant Examiner for that organization, examining the records of title plants for adequacy and accuracy of title plants which had applied for membership in the association.
+
+In 1976, I joined the brokerage firm of I. Jon Brook, Jr. as a petroleum landman. In 1980, went to work for Clayton Williams, Jr. in the Austin Chalk as a landman.  I have had many clients over the years working as an Independent landman, managing title research for clients, managing due diligence projects, leasing projects and seismic projects. I spent five years working for Brett Oil company in Houston in due diligence acquistions.  I earned the master's degree while working full time in the oil and gas industry as a field landman. In 2010 to 2014, I managed the field operations for Fairways Exploration & Production, LLC, acquiring 10,000 leases covering 400,000 acres. At that same time, I manged a 100 square mile seismic acquisition project for that company.  
+
+Today, I am still employed as a landman. During the downturn in the industry in 2014 to 2020, I used the time to enhance my data literacy; I studied advanced statistics, learning methods to create reproducible research. I write R code, a statistical programming language and some python. I write in Excel VBA, Power Query, Power Pivot and I create MS Access applications utilizing knowledge of VBA.  I use GIS in both R programming language and with QGIS, both of which are open source applications.  
+
+
+
+## About this document 
+
+This proposal is written in the format of a book with the Bookdown package for R, and is made available online in the form of an HTML document, PDF format, and as eBook publication.  I intend to maintain a live preview which will update as I edit and change the document on an as-needed basis.  
+
+
+
+
+```r
+bookdown::serve_book()
+```
+
+
+
+
+
+```r
+citation("plotrix")
+```
+

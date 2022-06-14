@@ -1,0 +1,9 @@
+introduction
+usage
+about-the-author
+about-this-document
+implications-for-reproducible-reporting
+the-hypothetical-title-report
+additional-benefits
+summary-of-savings-with-reproducible-reporting
+laying-the-groundwork-for-project-management
