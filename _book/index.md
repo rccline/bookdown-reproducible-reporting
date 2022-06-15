@@ -7,11 +7,13 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 # url: your book url like https://bookdown.org/yihui/bookdown
 # cover-image: path to the social sharing image like images/cover.jpg
+
 description: |
   This is a proposal to introduce reproducible reporting to steamline land title documentation, taking advantage of methods used by the scientific community employed in reproducible research. Reproducible reporting is estimated to reduce title analysis costs by as much as 50 percent.  
   
   
-biblio-style: apalike
+biblio-style: apalike  
+link-citatinos: true
 csl: chicago-fullnote-bibliography.csl
 ---
 
@@ -25,7 +27,7 @@ While replication is a fundamental tenet of science, it is grossly under utilize
 
 ## About the Author
 
-I, Robert C. Cline, Sr., hold a Masters Degree in Clinical Psychology from University of Houston-Clear Lake and, I am an AAPL Certified Professional Landman.  My family operated a sovereign title plant, [Wharton County Abstract Company](http://www.stxmaps.com/go/texas-historical-marker-wharton-county-abstract-company.html) which was established by Attorney William S. "Bilie" Brooks in 1890. My grandfather, Henry Augustus Cline, joined Billie Brooks in 1899. I started working in that plant at age 11, a barefooted boy copying documents in the court house, developing and printing the images for the abstractor to compile into Abstracts and Title Certificates.  I worked in that plant throughout my high school years.  After college, I attended a two year program at the University of Texas San Antonio Title School (UTSA), earning a certificate in the title insurance industry. I was a licensed closing officer in the title plant and was a certified Title Examiner for several title insurance underwriters including Chicago Title Insurance Agency and Minisota Title Insurance Company. A title examiner is a position that, by industry standards, requires a law degree and five years of practice of land title law.  That requirement was waived because of experience and UTSA certification.  I was a member of the Texas Land Title Association and was a Title Plant Examiner for that organization, examining the records of title plants for adequacy and accuracy of title plants which had applied for membership in the association.
+I, Robert C. Cline, Sr., hold a Masters Degree in Clinical Psychology from University of Houston-Clear Lake and, I am an AAPL Certified Professional Landman.  My family operated a sovereign title plant, [Wharton County Abstract Company](http://www.stxmaps.com/go/texas-historical-marker-wharton-county-abstract-company.html) which was established by Attorney William S. "Billie" Brooks in 1890. My grandfather, Henry Augustus Cline, joined Billie Brooks in 1899. I started working in that plant at age 11, a barefooted boy copying documents in the court house, developing and printing the images for the abstractor to compile into Abstracts and Title Certificates.  I worked in that plant throughout my high school years.  After college, I attended a two year program at the University of Texas San Antonio Title School (UTSA), earning a certificate in the title insurance industry. I was a licensed closing officer in the title plant and was a certified Title Examiner for several title insurance underwriters including Chicago Title Insurance Agency and Minisota Title Insurance Company. A title examiner is a position that, by industry standards, requires a law degree and five years of practice of land title law.  That requirement was waived because of experience and UTSA certification.  I was a member of the Texas Land Title Association and was a Title Plant Examiner for that organization, examining the records of title plants for adequacy and accuracy of title plants which had applied for membership in the association.
 
 In 1976, I joined the brokerage firm of I. Jon Brook, Jr. as a petroleum landman. In 1980, went to work for Clayton Williams, Jr. in the Austin Chalk as a landman.  I have had many clients over the years working as an Independent landman, managing title research for clients, managing due diligence projects, leasing projects and seismic projects. I spent five years working for Brett Oil Company in Houston in due diligence acquisitions.  I earned the master's degree while working full time in the oil and gas industry as a field landman. In 2010 to 2014, I managed the field operations for Fairways Exploration & Production, LLC, acquiring 10,000 leases covering 400,000 acres. At that same time, I managed a 100 square mile seismic acquisition project for that company.  
 
@@ -48,9 +50,4 @@ bookdown::serve_book()
 
 
 
-
-
-```r
-citation("plotrix")
-```
 

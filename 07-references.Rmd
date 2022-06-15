@@ -1,3 +1,18 @@
-`r if (knitr::is_html_output()) '
+
+```{r eval=FALSE}
+#`r if (knitr::is_html_output()) '
 # References {-}
-'`
+#'`
+```
+
+
+```{r, include = FALSE}
+knitr::write_bib(x = c("rmarkdown", "knitr", "plotrix", "lubridate", "tidyverse"), file = "packages.bib")
+```
+
+
+# References {-}
+
+---
+nocite: '@*'
+...
