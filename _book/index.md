@@ -1,7 +1,7 @@
 --- 
 title: "Reproducible Reporting: Cut Title Cost in Half"
 author: "Robert C. Cline, Sr., M.A., CPL"
-date: "2022-06-14"
+date: "2022-06-15"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -13,8 +13,9 @@ description: |
   
   
 biblio-style: apalike  
-link-citatinos: true
-csl: chicago-fullnote-bibliography.csl
+link-citations: true
+csl: apa-seventh-bibliography.csl
+# csl: chicago-fullnote-bibliography.csl
 ---
 
 # Introduction
@@ -47,6 +48,7 @@ This proposal is written in the format of a book with the Bookdown package for R
 ```r
 bookdown::serve_book()
 ```
+
 
 
 

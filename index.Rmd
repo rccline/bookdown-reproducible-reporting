@@ -13,8 +13,9 @@ description: |
   
   
 biblio-style: apalike  
-link-citatinos: true
-csl: chicago-fullnote-bibliography.csl
+link-citations: true
+csl: apa-seventh-bibliography.csl
+# csl: chicago-fullnote-bibliography.csl
 ---
 
 # Introduction
@@ -47,6 +48,13 @@ This proposal is written in the format of a book with the Bookdown package for R
 bookdown::serve_book()
 ```
 
+```{r eval=FALSE, include=FALSE}
+# https://editor.citationstyles.org/searchByExample/ 
+
+# Citation cls files on GitHub:  https://github.com/citation-style-language/styles
+
+# Quick Guide to citations: https://www.youtube.com/watch?v=zuuOYjE8m98&t=110s
+```
 
 
 
