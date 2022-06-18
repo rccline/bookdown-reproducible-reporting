@@ -1,5 +1,5 @@
 
-```{r eval=FALSE}
+```{r eval=FALSE, include=FALSE, echo=FALSE}
 #`r if (knitr::is_html_output()) '
 # References {-}
 #'`
