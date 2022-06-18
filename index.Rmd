@@ -34,7 +34,7 @@ In 1976, I joined the brokerage firm of I. Jon Brook, Jr. as a petroleum landman
 
 I also served as an expert witness in land titles for the famous Houston criminal attorney, [Dick DeGuerin](https://deguerin.com/).
 
-Today, I am still employed as a landman operating a brokerage business [Golden Triangle Land Services, Inc.](https://goldentriangleland.com/) out of Sidney, Nebraska with my partner, Coy Fisher. During the downturn in the industry in 2014 to 2020, I used the time to enhance my data literacy; I studied advanced statistics, learning methods to create reproducible research. I write R code, a statistical programming language with [RStudio](https://www.rstudio.com/about/) and I write some python. I write in Excel VBA, Power Query, Power Pivot and I create MS Access applications utilizing knowledge of VBA.  I use GIS in both R programming language and with QGIS, both of which are open source applications.  
+Today, I am still employed as a landman operating a brokerage business [Golden Triangle Land Services, Inc. (GTLS)](https://goldentriangleland.com/) out of Sidney, Nebraska with my partner, Coy Fisher. During the downturn in the industry in 2014 to 2020, I used the time to enhance my data literacy; I studied advanced statistics, learning methods to create reproducible research. I write R code, a statistical programming language with [RStudio](https://www.rstudio.com/about/) and I write some python. I write in Excel VBA, Power Query, Power Pivot and I create MS Access applications utilizing knowledge of VBA.  I use GIS in both R programming language and with QGIS, both of which are open source applications.  
 
 
 

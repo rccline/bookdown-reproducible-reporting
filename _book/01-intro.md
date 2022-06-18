@@ -34,8 +34,8 @@ Each title examination is different from any other, no two titles are the same. 
 
 ### Laying the groundwork for project management  
 
-The sofware we use for reproducible reporting is *R* and its companion software, *RStudio*. These open sourced softare are ideal for creating parameterized reports discussed in this .   
+The sofware we at GTLS use for reproducible reporting is *R* and its companion software, *RStudio*. These open sourced softare are ideal for creating parameterized reports discussed in this .   
 
-Data literacy is becoming an important part of higher education.  Landmen in today's world are taking on and accessing large amounts of data and some are even doing data mining. *R* does all this and, it is open source software which means the sofware is free. The templates we have created typically accept the data in CSV or XLSX format.  We can also connect directly to any relational database as a course of data.  CSV files are sufficient to acquire the data for *R* to do its magic. The reporting output can be in MS Word, PDF or HTML files.  
+Data literacy is becoming an important part of higher education.  Landmen in today's world are taking on and accessing large amounts of data and some are even doing data mining. *R* does all this and, it is open source software which means the sofware is free. The templates we at GTLS have created typically accept the data in CSV or XLSX format.  We can also connect directly to any relational database as a source of data.  CSV files are sufficient to acquire the data for *R* to do its magic. The reporting output can be in MS Word, PDF or HTML files.  
 
 Arguably, data are a company's most valuable asset.  Without data, an organization becomes a foundering ship.  Reproducible reporting is but one aspect of data literacy, but one in which title processes can be streamlined, time can be saved and costs can be reduced.
