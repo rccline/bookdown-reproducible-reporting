@@ -1,21 +1,19 @@
 --- 
-title: "Reproducible Reporting: Cut Title Cost in Half"
+title: 'Reproducible Reporting: Cut Title Cost in Half'
 author: "Robert C. Cline, Sr., M.A., CPL"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib, packages.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
-# cover-image: path to the social sharing image like images/cover.jpg
-
-description: |
-  This is a proposal to introduce reproducible reporting to steamline land title documentation, taking advantage of methods used by the scientific community employed in reproducible research. Reproducible reporting is estimated to reduce title analysis costs by as much as 50 percent.  
-  
-  
-biblio-style: apalike  
-link-citations: true
-csl: apa-seventh-bibliography.csl
-# csl: chicago-fullnote-bibliography.csl
+bibliography:
+- book.bib
+- packages.bib
+description: "This is a proposal to introduce reproducible reporting to steamline
+  land title documentation, taking advantage of methods used by the scientific community
+  employed in reproducible research. Reproducible reporting is estimated to reduce
+  title analysis costs by as much as 50 percent.  \n"
+biblio-style: apalike
+link-citations: yes
+csl: "apa-seventh-bibliography.csl"
 ---
 
 # Introduction
@@ -24,7 +22,7 @@ The scientific community has invested heavily in what is known as reproducible r
 
 ## Usage 
 
-While replication is a fundamental tenet of science, it is grossly under utilized in business applications; especially the title business. The process of preparing reports in the title industry is expensive and time consuming. The process of interpreting title ownership requires "hands-on" review of title documentation and a knowledge of land law, contract law, probate law, etc.  However, the process of reporting the analysis can be shortened by utilizing the methodology of reproducible research. Reproducible reporting is a way of utilizing current technology to both create iterative types of reports known as parameterized reports, and as a way to organize the title ownership data into easily managed data which can be maintained in a centralized database and updated as necessary.  
+While replication is a fundamental tenet of science, it is grossly underutilized in business applications; especially the title business. The process of preparing reports in the title industry is expensive and time consuming. The process of interpreting title ownership requires "hands-on" review of title documentation and a knowledge of land law, contract law, probate law, etc.  However, the process of reporting the analysis can be shortened by utilizing the methodology of reproducible research. Reproducible reporting is a way of utilizing current technology to both create iterative types of reports known as parameterized reports, and as a way to organize the title ownership data into easily managed data which can be maintained in a centralized database and updated as necessary.  
 
 ## About the Author
 
